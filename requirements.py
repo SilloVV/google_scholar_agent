@@ -1,2 +1,3 @@
 langchain_community
 dotenv
+google-adk

@@ -1,8 +1,15 @@
 import datetime
 from zoneinfo import ZoneInfo
 from google.adk.agents import Agent
+import os
+import sys
+
+# Ajoutez le répertoire courant au chemin Python
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 
 from tools.brave_search_tool import brave_search
+from tools.google_scholar_tool import scholar_search
 
 root_agent = Agent(
     name="assistant_scientifique",
