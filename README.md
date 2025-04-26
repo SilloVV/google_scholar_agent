@@ -1,7 +1,7 @@
 ![pipeline](/images_readme/image.png)
 
 ## Installation 
-- installer les dépendances avec 'pip install -r requirements.py'
+- installer les dépendances avec 'pip install -r requirements.txt'
 
 ## Clés API Nécéssaire 
 - Une clé SERPAPi : il faut se créer un compte et vous avez le droit à 100 recherches par mois 
