@@ -10,4 +10,4 @@
 
 Elles sont à définir dans le fichier .env dans le même format que .env_example
 
-## Il ne reste plus qu'à lancer le serveur avec la comande 'adk web'
+## Il ne reste plus qu'à lancer le serveur avec la commande 'adk web'
