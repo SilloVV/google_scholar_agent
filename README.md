@@ -9,3 +9,5 @@
 - Une clé Gemini : il faut se crée un compte et vous avez le droit à 
 
 Elles sont à définir dans le fichier .env dans le même format que .env_example
+
+## Il ne reste plus qu'à lancer le server avec la comande 'adk web'
